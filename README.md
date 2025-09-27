@@ -7,7 +7,7 @@
 - 💻 Passionate about building performant and user-friendly web applications.
 - 🌐 My Tech Stack: JavaScript, TypeScript, React, Vue, Next.js, Nuxt.js, Tailwind CSS.
 - 📫 How to reach me: fanfoofoo@gmail.com
-- 🌍 Check my latest project: https://github.com/pow-dapp-1
+- 🌍 Check my latest project: https://pow-dapp-1.vercel.app/
 
 ✨ About me✨
 
