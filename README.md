@@ -8,8 +8,13 @@
 - 🌐 Tech Stack: React, Vue, Next.js, Nuxt.js, JavaScript, TypeScript, Tailwind CSS.
 - 📫 How to reach me: fanfoofoo@gmail.com
 - 🌍 Check my react project:
-     https://pow-dapp-1.vercel.app/
-    (Tech: React+Next.js15+TypeScript+Tailwind CSS+Ethers.js+Vercel Analytics+SEO Optimized)
+    - https://pow-dapp-1.vercel.app/
+    - (Tech: React+Next.js15+TypeScript+Tailwind CSS+Ethers.js+Vercel Analytics+SEO Optimized)
+- Check my vue project:
+    - https://en.shopex.cn/zh (Not open source)
+    - (Tech: Vue3 + Nuxt + Tailwind)
+    - http://shopex-nuxt.ex-sandbox.com/ (Not open source)
+    - (Tech: Vue2 + Nuxt.js )
   
 ✨ About me✨
 
