@@ -10,10 +10,10 @@
 - 🌟 Check my react project:
     - https://pow-dapp-1.vercel.app/
     - (Tech: React+Next.js15+TypeScript+Tailwind CSS+Ethers.js+Vercel Analytics+SEO Optimized)
-- 🌟 Check my Vue project:
-    - https://en.shopex.cn/zh (Not open source)
+- 🌟 Check my Vue project(Not open source):
+    - https://en.shopex.cn/zh 
     - (Tech: Vue3 + Nuxt + Tailwind + Vite + CICD + Docker)
-    - http://shopex-nuxt.ex-sandbox.com/ (Not open source)
+    - http://shopex-nuxt.ex-sandbox.com/
     - (Tech: Vue2 + Nuxt.js + Webpack )
   
 ✨ About me✨
