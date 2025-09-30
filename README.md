@@ -9,7 +9,7 @@
 - 📫 How to reach me: fanfoofoo@gmail.com
 - 🌟 Check my react project:
     - https://pow-dapp-1.vercel.app/
-    - (Tech: React+Next.js15+TypeScript+Tailwind CSS+Ethers.js+Vercel Analytics+SEO Optimized)
+    - (Tech: React + Next.js15 + TypeScript + Tailwind + Ethers.js + Vercel + SEO)
 - 🌟 Check my Vue project(Not open source):
     - https://en.shopex.cn/zh 
     - (Tech: Vue3 + Nuxt + Tailwind + Vite + CICD + Docker)
