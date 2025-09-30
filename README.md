@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm Fairy here**
+**I'm Fairy**
 
 ✨ Frontend Developer  | React Enthusiast | Vue.js & TypeScript Specialist | Open to Remote Opportunities in Europe ✨
 
